@@ -2,3 +2,5 @@ baseURL = 'https://blog-ad8.pages.dev/'
 languageCode = 'en-us'
 title = 'yuze007 blog'
 theme = 'hyde'
+[params]
+  themeColor = "theme-base-0c"
